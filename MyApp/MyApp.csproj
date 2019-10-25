@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Configurations>Debug;Release;DebugClientA;DebugClientB;DebugDefault</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugClientA|AnyCPU'">
+    <DefineConstants>TRACE;CLIENT_A</DefineConstants>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugClientB|AnyCPU'">
+    <DefineConstants>TRACE;CLIENT_B</DefineConstants>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugDefault|AnyCPU'">
+    <DefineConstants>TRACE;DEFAULT</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="ServiceStack" Version="5.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyApp.ServiceInterface.ClientA\MyApp.ServiceInterface.ClientA.csproj" Condition="'$(Configuration)' == 'DebugClientA'" />
+    <ProjectReference Include="..\MyApp.ServiceInterface.ClientB\MyApp.ServiceInterface.ClientB.csproj" Condition="'$(Configuration)' == 'DebugClientB'" />
+    <ProjectReference Include="..\MyApp.ServiceInterface\MyApp.ServiceInterface.csproj"  />
+    <ProjectReference Include="..\MyApp.ServiceModel\MyApp.ServiceModel.csproj" />
+  </ItemGroup>
+
+</Project>
