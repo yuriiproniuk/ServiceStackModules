@@ -1,0 +1,16 @@
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.deps.json
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.pdb
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfoInputs.cache
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfo.cs
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.pdb
+C:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.csprojAssemblyReference.cache
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.deps.json
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\bin\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.pdb
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.csprojAssemblyReference.cache
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfoInputs.cache
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfo.cs
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+C:\Repos\Sandbox\webApi2\MyApp.ServiceModel.ClientA\obj\DebugClientA\netstandard2.0\MyApp.ServiceModel.ClientA.pdb

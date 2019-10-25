@@ -1,0 +1,7 @@
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.deps.json
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\bin\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.pdb
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfoInputs.cache
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.AssemblyInfo.cs
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.dll
+c:\Repos\Sandbox\web\MyApp.ServiceModel.ClientA\obj\DebugCa\netstandard2.0\MyApp.ServiceModel.ClientA.pdb

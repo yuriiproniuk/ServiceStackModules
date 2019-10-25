@@ -1,0 +1,11 @@
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\bin\DebugCa\netstandard2.0\MyApp.ServiceInterface.deps.json
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\bin\DebugCa\netstandard2.0\MyApp.ServiceInterface.dll
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\bin\DebugCa\netstandard2.0\MyApp.ServiceInterface.pdb
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\bin\DebugCa\netstandard2.0\MyApp.ServiceModel.dll
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\bin\DebugCa\netstandard2.0\MyApp.ServiceModel.pdb
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.csprojAssemblyReference.cache
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.AssemblyInfoInputs.cache
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.AssemblyInfo.cs
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.csproj.CopyComplete
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.dll
+c:\Repos\Sandbox\web\MyApp.ServiceInterface\obj\DebugCa\netstandard2.0\MyApp.ServiceInterface.pdb
